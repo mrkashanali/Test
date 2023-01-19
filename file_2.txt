@@ -1,0 +1,9 @@
+<<<<<<< HEAD
+change
+=======
+<<<<<<< HEAD
+ hello file 2
+line 2 
+=======
+>>>>>>> parent of 0d32ec4 ( commit 2)
+>>>>>>> parent of 5dff73c ( all files commited together)
