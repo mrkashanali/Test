@@ -1,6 +1,0 @@
-<<<<<<< HEAD
-change
-=======
-line 1
->>>>>>> parent of 5dff73c ( all files commited together)
-ksjfsdjf
