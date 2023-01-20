@@ -1,3 +1,7 @@
 skfhskjk
 abskjfds
+<<<<<<< HEAD
 merging emergency branch to master
+=======
+testing project 1 branch 
+>>>>>>> Project.1.b1
